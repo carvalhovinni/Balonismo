@@ -1,4 +1,14 @@
 public class Pessoa {
 
-     pessoa = new pessoa;
+    // Atributos
+
+    String nome;
+    String cpf;
+    String rg;
+    String Telefone;
+    String emergencia;
+    String assinaturatermo;
+    String endereço;
+
+
 }
